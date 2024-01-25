@@ -37,14 +37,13 @@ Este projeto consiste em um Sistema de Gerenciamento de Clientes para uma empres
 3. **Instalar Dependências e Executar o Backend:**
 - ABRA O CONSOLE DENTRO DO PROJETO COM O VSCODE E  DÊ UM NPM INSTALL PARA INSTALAR AS DEPENDÊNCIAS
    ```bash
-   cd backend
    npm install
-   npm start
+   npm start ou node app.js
    ```
 
 4. **Instalar Dependências e Executar o Frontend:**
    ```bash
-   cd frontend
+   cd cliente-app
    npm install
    npm start
    ```
