@@ -23,13 +23,13 @@ Este projeto consiste em um Sistema de Gerenciamento de Clientes para uma empres
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/sistema-gerenciamento-clientes.git
-   cd sistema-gerenciamento-clientes
+   git clone https://github.com/kelitondossan/sistema.git
+   cd ini
    ```
 
 2. **Configurar o Banco de Dados:**
    - Certifique-se de ter um servidor PostgreSQL em execução.
-   - Crie um banco de dados chamado `sistema_gerenciamento_clientes`.
+   - Crie um banco de dados chamado `teste4`.
    - Altere as credenciais do banco de dados no arquivo `db.js` conforme necessário.
 
 3. **Instalar Dependências e Executar o Backend:**
