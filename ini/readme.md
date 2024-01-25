@@ -20,7 +20,7 @@ Este projeto consiste em um Sistema de Gerenciamento de Clientes para uma empres
 **Requisitos:**
 - Node.js e npm instalados.
 - PostgreSQL instalado e configurado.
-- ABRA O CONSOLE DENTRO DO PROJETO COM O VSCODE E  DÊ UM NPM INSTALL PARA INSTALAR AS DEPENDÊNCIAS
+
 
 1. **Clonar o Repositório:**
    ```bash
@@ -32,8 +32,10 @@ Este projeto consiste em um Sistema de Gerenciamento de Clientes para uma empres
    - Certifique-se de ter um servidor PostgreSQL em execução.
    - Crie um banco de dados chamado `teste4`.
    - Altere as credenciais do banco de dados no arquivo `db.js` conforme necessário.
+   
 
 3. **Instalar Dependências e Executar o Backend:**
+- ABRA O CONSOLE DENTRO DO PROJETO COM O VSCODE E  DÊ UM NPM INSTALL PARA INSTALAR AS DEPENDÊNCIAS
    ```bash
    cd backend
    npm install
