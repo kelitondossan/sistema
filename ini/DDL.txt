@@ -1,0 +1,19 @@
+TESTE DE TABELA SIMPLES
+CREATE TABLE clientes (
+  id SERIAL PRIMARY KEY,
+  nome VARCHAR(255),
+  email VARCHAR(255),
+  telefone VARCHAR(20),
+  coordenadaX INT,
+  coordenadaY INT
+);
+TESTE COM RESTRIÇÕES noT NULL
+
+CREATE TABLE clientes (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    telefone VARCHAR(20),
+    coordenadaX INTEGER,
+    coordenadaY INTEGER
+);
