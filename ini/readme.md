@@ -20,6 +20,7 @@ Este projeto consiste em um Sistema de Gerenciamento de Clientes para uma empres
 **Requisitos:**
 - Node.js e npm instalados.
 - PostgreSQL instalado e configurado.
+- DÊ UM NPM INSTALL PARA INSTALAR AS DEPENDÊNCIAS
 
 1. **Clonar o Repositório:**
    ```bash
